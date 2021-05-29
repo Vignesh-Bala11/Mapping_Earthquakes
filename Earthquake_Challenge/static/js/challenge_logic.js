@@ -216,7 +216,7 @@ legend.onAdd = function() {
 
   // Add styling for the tectonic plates
   let myStyle = {
-    color: "purple",
+    color: "orange",
     weight: 3
   };
 
